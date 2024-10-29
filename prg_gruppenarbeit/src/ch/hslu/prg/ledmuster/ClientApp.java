@@ -6,8 +6,8 @@ public class ClientApp {
 		
 		
 		
-		//sofhsflksdflk
-		
+		private int chlöisu;
+		private int xxx;
 		
 		
 	}
