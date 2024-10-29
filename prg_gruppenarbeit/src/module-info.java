@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module prg_gruppenarbeit {
-}
